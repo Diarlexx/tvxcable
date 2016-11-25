@@ -1,5 +1,5 @@
 # tvxcable
-ver tv por cable
+ver tv en android
 
 App. http://tvplayerlatino.com
 
